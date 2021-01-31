@@ -7,7 +7,7 @@
 - 睡眠・食事の月齢推移の可視化と分析
 
 ## 結果
-[ぴよログ分析結果のNotebook](piyolog-analytics.html)
+[ぴよログ分析結果のNotebook](piyolog-analytics.ipynb)
 
 ## 詳細
 分析の設計や詳細は[ぴよログ分析](https://yaki-lab.web.app/Product/PiyoLogAnalytics/Top.html)を参照してください
